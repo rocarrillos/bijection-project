@@ -203,6 +203,33 @@ src/main.cpp.s:
 	$(MAKE) -f CMakeFiles/a0.dir/build.make CMakeFiles/a0.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/tutte.o: src/tutte.cpp.o
+
+.PHONY : src/tutte.o
+
+# target to build an object file
+src/tutte.cpp.o:
+	$(MAKE) -f CMakeFiles/a0.dir/build.make CMakeFiles/a0.dir/src/tutte.cpp.o
+.PHONY : src/tutte.cpp.o
+
+src/tutte.i: src/tutte.cpp.i
+
+.PHONY : src/tutte.i
+
+# target to preprocess a source file
+src/tutte.cpp.i:
+	$(MAKE) -f CMakeFiles/a0.dir/build.make CMakeFiles/a0.dir/src/tutte.cpp.i
+.PHONY : src/tutte.cpp.i
+
+src/tutte.s: src/tutte.cpp.s
+
+.PHONY : src/tutte.s
+
+# target to generate assembly for a file
+src/tutte.cpp.s:
+	$(MAKE) -f CMakeFiles/a0.dir/build.make CMakeFiles/a0.dir/src/tutte.cpp.s
+.PHONY : src/tutte.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -220,6 +247,9 @@ help:
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/tutte.o"
+	@echo "... src/tutte.i"
+	@echo "... src/tutte.s"
 .PHONY : help
 
 

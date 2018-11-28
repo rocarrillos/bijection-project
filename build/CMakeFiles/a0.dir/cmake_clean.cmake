@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/a0.dir/glew/src/glew.c.o"
   "CMakeFiles/a0.dir/src/main.cpp.o"
+  "CMakeFiles/a0.dir/src/tutte.cpp.o"
   "a0.pdb"
   "a0"
 )

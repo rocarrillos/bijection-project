@@ -49,6 +49,8 @@ list (APPEND A0_SRC
 )
 list (APPEND A0_HEADER
   src/gl.h
+  src/tutte.h
+  src/tutte.cpp
 )
 
 add_executable(a0 ${A0_SRC} ${A0_HEADER})

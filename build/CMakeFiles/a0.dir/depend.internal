@@ -21,3 +21,14 @@ CMakeFiles/a0.dir/src/main.cpp.o
  /home/brothercarrillo/Dropbox (MIT)/Senior/6.837/finalproject/bijection-project/src/gl.h
  /home/brothercarrillo/Dropbox (MIT)/Senior/6.837/finalproject/bijection-project/src/main.cpp
  /home/brothercarrillo/Dropbox (MIT)/Senior/6.837/finalproject/bijection-project/src/tutte.h
+CMakeFiles/a0.dir/src/tutte.cpp.o
+ ../vecmath/include/Matrix2f.h
+ ../vecmath/include/Matrix3f.h
+ ../vecmath/include/Matrix4f.h
+ ../vecmath/include/Quat4f.h
+ ../vecmath/include/Vector2f.h
+ ../vecmath/include/Vector3f.h
+ ../vecmath/include/Vector4f.h
+ ../vecmath/include/vecmath.h
+ /home/brothercarrillo/Dropbox (MIT)/Senior/6.837/finalproject/bijection-project/src/tutte.cpp
+ /home/brothercarrillo/Dropbox (MIT)/Senior/6.837/finalproject/bijection-project/src/tutte.h

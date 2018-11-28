@@ -21,3 +21,14 @@ CMakeFiles/a0.dir/src/main.cpp.o: ../src/gl.h
 CMakeFiles/a0.dir/src/main.cpp.o: ../src/main.cpp
 CMakeFiles/a0.dir/src/main.cpp.o: ../src/tutte.h
 
+CMakeFiles/a0.dir/src/tutte.cpp.o: ../vecmath/include/Matrix2f.h
+CMakeFiles/a0.dir/src/tutte.cpp.o: ../vecmath/include/Matrix3f.h
+CMakeFiles/a0.dir/src/tutte.cpp.o: ../vecmath/include/Matrix4f.h
+CMakeFiles/a0.dir/src/tutte.cpp.o: ../vecmath/include/Quat4f.h
+CMakeFiles/a0.dir/src/tutte.cpp.o: ../vecmath/include/Vector2f.h
+CMakeFiles/a0.dir/src/tutte.cpp.o: ../vecmath/include/Vector3f.h
+CMakeFiles/a0.dir/src/tutte.cpp.o: ../vecmath/include/Vector4f.h
+CMakeFiles/a0.dir/src/tutte.cpp.o: ../vecmath/include/vecmath.h
+CMakeFiles/a0.dir/src/tutte.cpp.o: ../src/tutte.cpp
+CMakeFiles/a0.dir/src/tutte.cpp.o: ../src/tutte.h
+

@@ -15,7 +15,6 @@ void flatten(std::vector<Vector3f> model, std::vector<Vector2f> mapping) {
     for (int iter = 0; iter < i; iter++) {
         Vector4f halfway(model[iter], 1);
         Vector4f t = tutte * halfway;
-        mapping.push_back(t.xy);
+        mapping.push_back(t.xy());
     }
-
 }

@@ -83,6 +83,7 @@ void getTutte(vector<Vector3f> vertices) {
     flatten(vertices, transform);
 }
 
-void main() {
+int main() {
     // not sure what the main thing will be yet
+    return 1;
 }

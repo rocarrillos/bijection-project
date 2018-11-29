@@ -81,9 +81,15 @@ void getTutte(vector<Vector3f> vertices) {
     // our object file
     vector<Vector2f> transform;
     flatten(vertices, transform);
+    cout << transform.size() << endl;
+    for (unsigned int i = 0; i < transform.size(); i++) {
+        cout << transform[i].x() << " " << transform[i].y() << endl;
+    }
 }
 
 int main() {
     // not sure what the main thing will be yet
+    getObjMesh("../data/meshes/garg.obj");
+    getTutte(vecv);
     return 1;
 }

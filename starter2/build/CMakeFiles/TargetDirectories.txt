@@ -1,0 +1,15 @@
+/home/shlyons/repos/classes/6.837/starter2/build/CMakeFiles/rebuild_cache.dir
+/home/shlyons/repos/classes/6.837/starter2/build/CMakeFiles/a2.dir
+/home/shlyons/repos/classes/6.837/starter2/build/CMakeFiles/edit_cache.dir
+/home/shlyons/repos/classes/6.837/starter2/build/3rd_party/glfw/CMakeFiles/rebuild_cache.dir
+/home/shlyons/repos/classes/6.837/starter2/build/3rd_party/glfw/CMakeFiles/edit_cache.dir
+/home/shlyons/repos/classes/6.837/starter2/build/3rd_party/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/shlyons/repos/classes/6.837/starter2/build/3rd_party/glfw/src/CMakeFiles/glfw.dir
+/home/shlyons/repos/classes/6.837/starter2/build/3rd_party/glfw/src/CMakeFiles/edit_cache.dir
+/home/shlyons/repos/classes/6.837/starter2/build/3rd_party/nanogui/CMakeFiles/rebuild_cache.dir
+/home/shlyons/repos/classes/6.837/starter2/build/3rd_party/nanogui/CMakeFiles/edit_cache.dir
+/home/shlyons/repos/classes/6.837/starter2/build/3rd_party/nanogui/CMakeFiles/bin2c.dir
+/home/shlyons/repos/classes/6.837/starter2/build/3rd_party/nanogui/CMakeFiles/nanogui.dir
+/home/shlyons/repos/classes/6.837/starter2/build/vecmath/CMakeFiles/rebuild_cache.dir
+/home/shlyons/repos/classes/6.837/starter2/build/vecmath/CMakeFiles/vecmath.dir
+/home/shlyons/repos/classes/6.837/starter2/build/vecmath/CMakeFiles/edit_cache.dir
